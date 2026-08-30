@@ -1,0 +1,7 @@
+boto3
+dvc-s3
+dvc
+git
+scikit-learn
+pandas
+numpy
